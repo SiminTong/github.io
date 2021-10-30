@@ -153,7 +153,7 @@ header .profileHeader h4 {
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 24px;
-	margin-top: -100px;
+	margin-top: -110px;
 }
 
 header .profileHeader h5 {
@@ -164,6 +164,27 @@ header .profileHeader h5 {
 	line-height: 1.8;
 	overflow-y: hidden;
 }
+
+header .profileHeader h6 {
+	font-family: Helvetica;
+	color: #626567;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 2;
+	margin-top: 50px;
+}
+
+
+header .profileHeader h7 {
+	font-family: Helvetica;
+	color: #626567;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 1;
+	margin-top: -500px;
+}
+
+
 
 header .title h5 {
 	font-family: Helvetica;
@@ -180,25 +201,25 @@ header .title h5 {
 header .profileHeader p {
 	font-family: sans-serif;
 	/*color: rgba(146,146,146,1.00);*/
-	style="font-size:15px";
 	color: #626567 ;
 	/*color: #5F6A6A ;*/
 	font-size: 16px;
 	font-weight: 400;
-	line-height: 1.8;
+	line-height: 1;
 	overflow-y: hidden;
+	margin-top: -30px;
 }
 
 header .profileHeader p2 {
 	font-family: sans-serif;
 	/*color: rgba(146,146,146,1.00);*/
-	style="font-size:15px";
 	color: #626567 ;
 	/*color: #5F6A6A ;*/
 	font-size: 16px;
 	font-weight: 400;
-	line-height: 1.5;
+	line-height: 1;
 	overflow-y: hidden;
+	margin-top: -10px;
 }
 
 
