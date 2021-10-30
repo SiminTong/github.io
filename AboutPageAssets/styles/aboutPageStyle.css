@@ -222,6 +222,18 @@ header .profileHeader p2 {
 	margin-top: -10px;
 }
 
+header .profileHeader p3 {
+	font-family: sans-serif;
+	/*color: rgba(146,146,146,1.00);*/
+	color: #626567 ;
+	/*color: #5F6A6A ;*/
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	overflow-y: hidden;
+	margin-top: 20px;
+}
+
 
 
 hr {
